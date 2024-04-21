@@ -49,4 +49,5 @@ This project is conducted using Jupyter Notebook. Ensure you have the necessary 
 ### Contact:
 
 For inquiries or further information, please contact
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-rathod-62ba802a9)
